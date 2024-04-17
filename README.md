@@ -27,4 +27,3 @@ Additional Tips:
   Use Markdown syntax to format your README file effectively.
   Include visualizations, tables, and code snippets to enhance readability.
   Ensure your repository is well-documented and easy to navigate for users.
-By following these guidelines, you can create a comprehensive repository description and README file for your Employee Turnover Analysis project on GitHub.
