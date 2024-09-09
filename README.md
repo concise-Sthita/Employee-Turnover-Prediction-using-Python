@@ -15,6 +15,7 @@ This project utilizes the following technologies and libraries:
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computing.
 - **Matplotlib/Seaborn**: For data visualization.
+- **Randomm Forest, KNN, Ada Boost, Support Vector Machine, Decision tree, Gaussian naive Bias, Logistic Regression**
 - **Jupyter Notebook**: For interactive data analysis and visualization.
 
 ## Future Improvements
